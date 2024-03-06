@@ -1,6 +1,6 @@
 ---
-created: 2024-03-05T08:05:32+08:00
-modified: 2024-03-05T08:21:23+08:00
+created: 2024-03-06T08:05:32+08:00
+modified: 2024-03-06T08:21:23+08:00
 ---
 
 # 自由上网，科学上网，翻墙机场推荐
@@ -18,7 +18,7 @@ modified: 2024-03-05T08:21:23+08:00
 
 
 ### 高速机场推荐1 快猫
-高速机场推荐1 [【快猫】](https://kuaimao.work/#/register?code=TTaIXhNs)
+高速机场推荐1 [【快猫】](https://kuaimao.live/#/register?code=TTaIXhNs)
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
@@ -27,12 +27,12 @@ modified: 2024-03-05T08:21:23+08:00
 
 ### 高速机场推荐2 FCCloud
 
-👉高速机场推荐2  [【FCCloud】](https://starlinkcloud.cc/#/register?code=WJO2rjEq)
+👉高速机场推荐2  [【FCCloud】](https://www.fccloud.vip/#/register?code=pjexoNLZ)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
 
-👉注册地址： [【FCCloud官网（点击注册）】](https://starlinkcloud.cc/#/register?code=WJO2rjEq)
+👉注册地址： [【FCCloud官网（点击注册）】](https://www.fccloud.vip/#/register?code=pjexoNLZ)
 
 ### 高速机场推荐3 轻云
 
