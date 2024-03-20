@@ -1,6 +1,6 @@
 ---
-created: 2024-03-19T08:05:32+08:00
-modified: 2024-03-19T08:21:23+08:00
+created: 2024-03-20T08:05:32+08:00
+modified: 2024-03-20T08:21:23+08:00
 ---
 
 # 自由上网，科学上网，翻墙机场推荐
@@ -27,12 +27,12 @@ modified: 2024-03-19T08:21:23+08:00
 
 ### 高速机场推荐2 FCCloud
 
-👉高速机场推荐2  [【FCCloud】](https://www.fccloud.pro/#/register?code=pjexoNLZ)
+👉高速机场推荐2  [【FCCloud】](https://www.fccloud1.com/#/register?code=pjexoNLZ)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
 
-👉注册地址： [【FCCloud官网（点击注册）】](https://www.fccloud.pro/#/register?code=pjexoNLZ)
+👉注册地址： [【FCCloud官网（点击注册）】](https://www.fccloud1.com/#/register?code=pjexoNLZ)
 
 ### 高速机场推荐3 轻云
 
