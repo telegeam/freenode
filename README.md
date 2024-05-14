@@ -62,11 +62,11 @@ Trojan 协议，不限制设备数量 。
 
 ### 高速机场推荐5 极速云
 
-高速机场推荐4[【极速云】](https://www.xn--mes358acgm99l.net/#/register?code=uDjEZfAr)
+高速机场推荐4[【极速云】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
         
 全球节点，解锁流媒体GPT，平民价格
 
-👉[点击注册](https://www.xn--mes358acgm99l.net/#/register?code=uDjEZfAr)
+👉[点击注册](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
 
 ###  高速机场推荐6 机场巴巴
 
