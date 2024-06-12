@@ -1,6 +1,6 @@
 ---
-created: 2024-06-11T08:05:32+08:00
-modified: 2024-06-11T08:21:23+08:00
+created: 2024-06-12T08:05:32+08:00
+modified: 2024-06-12T08:21:23+08:00
 ---
 
 # 自由上网，科学上网，翻墙机场推荐
@@ -43,9 +43,9 @@ modified: 2024-06-11T08:21:23+08:00
 
 👉注册地址： [【轻云官网（点击注册）】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
 
-### 高速机场推荐4 EFCloud
+### 高速机场推荐4 火烧云
 
-高速机场推荐4[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+高速机场推荐4[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 线路优势
 多地中转隧道跨境出国SLA在线保障
@@ -53,12 +53,12 @@ modified: 2024-06-11T08:21:23+08:00
 流媒体支持
 支持但不限于 Chatgpt/Netfilx/Hulu/Hbo/Disney+/Dazn 等流媒体
 套餐优势
-全球 30+ 国家/地区， 50+ 节点
+全球 多节点
 设备支持
 Trojan 协议，不限制设备数量 。
 支持Android/iOS/Mac/Windows/Linux/路由器全平台
 
-👉[点击注册](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+👉[点击注册](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐5 极速云
 
