@@ -88,7 +88,7 @@ TG群组搜索机器人
 
 👉#1 [点击进入](https://t.me/soso?start=a_6128203748?)
 
-👉#2 [点击进入](https://t.me/jisou?start=a_611319548)
+👉#2 [点击进入](https://t.me/jisou2bot?start=a_611319548)
 
 👉#3 [点击进入](https://t.me/damosuoyinAdminbbot?start=6113195484)
 
