@@ -3,6 +3,10 @@ created: 2024-12-05T08:05:32+08:00
 modified: 2024-12-05T08:21:23+08:00
 ---
 
+### [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+
+[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
+
 # 自由上网，科学上网，翻墙机场推荐
 
 自己用了好几年的机场,见过太多机场的起落，目前一直都在用的机场分享一下
