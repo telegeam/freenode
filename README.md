@@ -56,9 +56,9 @@ modified: 2024-12-27T08:21:23+08:00
 
 * * *
 
-### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 最便宜的订阅有5元 1000G/月。
 
@@ -296,9 +296,9 @@ Trojan 协议，不限制设备数量 。
 
 👉[点击注册](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
 
-### [稳连云](#稳连云)
+### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 最便宜的订阅有5元 1000G/月。
 
