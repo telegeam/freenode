@@ -66,15 +66,6 @@ modified: 2025-1-10T08:21:23+08:00
 
 * * *
 
-### [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
 
 
 
@@ -211,27 +202,6 @@ modified: 2025-1-10T08:21:23+08:00
 机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
 
 * * *
-### [xxai](https://xx-ai.co?invite_code=xijJQ0UG)
-
-注册链接：[xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG)
-
-
-最便宜的订阅有16.9元 100G/月。
-
-节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
-
-* * *
-
-### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
-
-注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-最便宜的订阅有9.9元 80G/月。
-
-全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
-
-* * *
-
 
 
 ### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
@@ -306,17 +276,6 @@ Trojan 协议，不限制设备数量 。
 
 * * *
 
-### [宇宙机场](#宇宙机场)
-
-注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-试用：
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
 
 ### [狗狗加速器](#狗狗加速器)
 
@@ -331,18 +290,7 @@ Trojan 协议，不限制设备数量 。
 
 * * *
 
-### [三分机场](#三分机场)
 
-注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-
-试用：
-
-最便宜的订阅有5元 5000G/月。
-
-全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
-
-* * *
 
 ### [可乐云](#可乐云)
 
@@ -410,60 +358,8 @@ Trojan 协议，不限制设备数量 。
 
 * * *
 
-### [龙猫云](#龙猫云)
-
-注册链接：[lmspeeesed.co](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 
-试用：无
-
-最便宜的订阅有15元 150G/月。
-
-**特性如下**
-
-+   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-+   IPLC深港、沪美、沪日专线，
-+   流媒体完美解锁（包括Netflix , Disney+, HBO等）
-+   完美解锁ChatGPT、Gemini、Copilot
-+   支持Tiktok本土短视频运营和直播
-
-* * *
-
-### [Aladdin](#aladdin)
-
-注册链接：[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr)
-
-试用：无
-
-最便宜的订阅有30元 390G/半年。
-
-这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。
-
-* * *
-
-### [xxai](#xxai)
-
-注册链接：[xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG)
-
-
-最便宜的订阅有16.9元 100G/月。
-
-节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
-
-* * *
-
-### [青云梯](#青云梯)
-
-注册链接：[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=guLyIdy0)
-
-
-试用：无
-
-最便宜的订阅有25元 150G/月。
-
-机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
-
-* * *
 
 ### [冲上云霄](#冲上云霄)
 
