@@ -34,9 +34,9 @@ modified: 2025-1-23T08:21:23+08:00
 
 * * *
 
-### [EF](https://xsus2025.xyz/register?code=4rj0X9mc)
+### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://xsus2025.xyz/register?code=4rj0X9mc)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
@@ -214,9 +214,9 @@ modified: 2025-1-23T08:21:23+08:00
 * * *
 
 
-### [EF](https://xsus2025.xyz/register?code=4rj0X9mc)
+### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://xsus2025.xyz/register?code=4rj0X9mc)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
@@ -385,7 +385,7 @@ Trojan 协议，不限制设备数量 。
 
 ### [EF](#ef)
 
-注册链接：[https://www.efcloud1.com](https://xsus2025.xyz/register?code=4rj0X9mc)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
