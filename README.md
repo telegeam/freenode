@@ -34,11 +34,11 @@ modified: 2025-1-23T08:21:23+08:00
 
 * * *
 
-### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
@@ -79,32 +79,6 @@ modified: 2025-1-23T08:21:23+08:00
 
 
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
-
-### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-
-最便宜的订阅有10元 200G/月。
-
-**特性如下**
-
-+   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-+   IPLC深港、沪美、沪日专线，
-+   流媒体完美解锁（包括Netflix , Disney+, HBO等）
-+   完美解锁ChatGPT、Gemini、Copilot
-+   支持Tiktok本土短视频运营和直播
-
-* * *
 
 ### [冲上云霄](https://cpdd.one)
 
@@ -175,23 +149,6 @@ modified: 2025-1-23T08:21:23+08:00
 
 * * *
 
-### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-
-最便宜的订阅有10元 150G/月。
-
-**特性如下**
-
-+   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-+   IPLC深港、沪美、沪日专线，
-+   流媒体完美解锁（包括Netflix , Disney+, HBO等）
-+   完美解锁ChatGPT、Gemini、Copilot
-+   支持Tiktok本土短视频运营和直播
-
-* * *
-
 ### [火烧云](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
 
 注册链接：[huoshaoyun.pro/](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
@@ -214,11 +171,11 @@ modified: 2025-1-23T08:21:23+08:00
 * * *
 
 
-### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
@@ -235,12 +192,12 @@ modified: 2025-1-23T08:21:23+08:00
 
 ### 高速机场推荐2 FCCloud
 
-👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+<---👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
 
-👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)---/>
 
 ### 高速机场推荐3 轻云
 
@@ -315,18 +272,7 @@ Trojan 协议，不限制设备数量 。
 
 * * *
 
-### [spcloud](#spcloud)
 
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-
-试用：
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
 
 
 ### [西游云](#西游云)
@@ -383,16 +329,6 @@ Trojan 协议，不限制设备数量 。
 
 * * *
 
-### [EF](#ef)
-
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
 
 
 ------------------------------------------------------------------------
