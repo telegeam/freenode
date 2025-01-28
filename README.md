@@ -1,6 +1,6 @@
 ---
-created: 2025-1-27T08:05:32+08:00
-modified: 2025-1-27T08:21:23+08:00
+created: 2025-1-28T08:05:32+08:00
+modified: 2025-1-28T08:21:23+08:00
 ---
 
 ### [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -20,15 +20,15 @@ modified: 2025-1-27T08:21:23+08:00
 
 # 高速机机场推荐:
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
 
 试用：
 
-最便宜的订阅有6元 60G/月。
+最便宜的订阅有5.9元 39G/月。
 
-便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
