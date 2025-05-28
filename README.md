@@ -1,6 +1,6 @@
 ---
-created: 2025-5-27T08:05:32+08:00
-modified: 2025-5-27T08:21:23+08:00
+created: 2025-5-28T08:05:32+08:00
+modified: 2025-5-28T08:21:23+08:00
 ---
 
 ### [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
@@ -117,16 +117,6 @@ modified: 2025-5-27T08:21:23+08:00
 * * *
 
 
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[点击进入](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
 ### [加速啦](https://jiasu.la/?r=42350)
 
 注册链接：[点击进入](https://jiasu.la/?r=42350)
@@ -237,24 +227,6 @@ Trojan 协议，不限制设备数量 。
 集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
 
 * * *
-
-
-
-### [可乐云](#可乐云)
-
-注册链接：[点击进入](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
-
-
-
 
 ### [西游云](#西游云)
 
