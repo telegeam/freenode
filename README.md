@@ -21,9 +21,11 @@ modified: 2025-6-181T08:21:23+08:00
 # 高速机机场推荐:
 
 
- [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+便宜是真便宜，10元钱买1个月，新用户1个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
 试用:1天2G
 解锁奈飞迪士尼
 
