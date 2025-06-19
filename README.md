@@ -60,20 +60,6 @@ modified: 2025-6-191T08:21:23+08:00
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
-
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
-
-最便宜的订阅有6元 60G/月。
-
-便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
-
-
-
 
 ### [冲上云霄](https://cpdd.one/?r=42354)
 
@@ -84,17 +70,6 @@ modified: 2025-6-191T08:21:23+08:00
 最便宜的订阅有10元 300G/30天。
 
 这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-* * *
-
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
-
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
-
-
-最便宜的订阅有9元 120G/月。
-
-最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
 
 * * *
 
@@ -217,19 +192,6 @@ Trojan 协议，不限制设备数量 。
 最便宜的订阅有15.8元 160G/月。
 
 集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
-
-* * *
-
-### [西游云](#西游云)
-
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
-
-
-试用：
-
-最便宜的订阅有9元 120G/月。
-
-最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
 
 * * *
 
