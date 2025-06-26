@@ -1,9 +1,9 @@
 ---
-created: 2025-6-25T08:05:32+08:00
-modified: 2025-6-25T08:21:23+08:00
+created: 2025-6-26T08:05:32+08:00
+modified: 2025-6-26T08:21:23+08:00
 ---
 
-### [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+### [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批零售
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
@@ -74,21 +74,20 @@ modified: 2025-6-25T08:21:23+08:00
 
 * * *
 
-### [冲上云霄](https://cpdd.one/?r=42354)
+### [西游云](https://goudan.site/#/register?code=2mVFWPT1)
+点击注册：[点击进入](https://goudan.site/#/register?code=2mVFWPT1)
 
-点击注册：[点击进入](https://cpdd.one/?r=42354)
+试用：
 
-试用：1天 1G
-
-最便宜的订阅有10元 300G/30天。
+最便宜的订阅有9元 120G/30天。
 
 这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -120,9 +119,9 @@ modified: 2025-6-25T08:21:23+08:00
 
 * * *
 
-### [快猫](https://kuaimao.io/#/register?code=9xg6G0AV)
+### [快猫](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
-注册链接：[点击进入](https://kuaimao.io/#/register?code=9xg6G0AV)
+注册链接：[点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 
 最便宜的订阅有10元 100G/月。
@@ -134,12 +133,12 @@ modified: 2025-6-25T08:21:23+08:00
 
 
 ### 高速机场推荐1 快猫
-高速机场推荐1 [【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
+高速机场推荐1 [【快猫】](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-👉[[点击注册]](https://kuaimao.io/#/register?code=9xg6G0AV)
+👉[[点击注册]](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 <!---### 高速机场推荐2 FCCloud
 
@@ -161,7 +160,7 @@ modified: 2025-6-25T08:21:23+08:00
 
 ### 高速机场推荐4 火烧云
 
-高速机场推荐4[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+高速机场推荐4[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 线路优势
 多地中转隧道跨境出国SLA在线保障
@@ -174,7 +173,7 @@ modified: 2025-6-25T08:21:23+08:00
 Trojan 协议，不限制设备数量 。
 支持Android/iOS/Mac/Windows/Linux/路由器全平台
 
-👉[点击注册](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+👉[点击注册](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐5 极速云
 
@@ -210,7 +209,7 @@ Trojan 协议，不限制设备数量 。
 
 ### [flybit](#flybit)
 
-注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
