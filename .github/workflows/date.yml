@@ -24,6 +24,8 @@ jobs:
           # 使用 sed 替换 README.md 中的日期
           sed -i "s/created: .*/created: $current_date/" README.md
           sed -i "s/modified: .*/modified: $current_date/" README.md
+          sed -i "s/created: .*/created: $current_date/" 自由上网，科学上网，翻墙机场推荐__自己用了好几年的机场,见过太多机场的起落，目前一直都在用的机场分享一下.md
+          sed -i "s/modified: .*/modified: $current_date/" 自由上网，科学上网，翻墙机场推荐__自己用了好几年的机场,见过太多机场的起落，目前一直都在用的机场分享一下.md
 
       - name: Commit and push changes
         run: |
