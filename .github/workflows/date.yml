@@ -1,9 +1,12 @@
 name: Update Date in README
 
+# 触发条件
 on:
+  workflow_dispatch:
+  # 定时触发
   schedule:
-    # 设置为每天上海时间 8:00
-    - cron: '0 0 8 * * *' # UTC时间为 0:00，上海时间为 8:00
+    # 每6小时获取一次
+    - cron: '0 */12 * * *'
 
 jobs:
   update-date:
