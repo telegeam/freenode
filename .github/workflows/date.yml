@@ -1,0 +1,31 @@
+name: Update Date in README
+
+on:
+  schedule:
+    # 设置为每天上海时间 8:00
+    - cron: '0 0 8 * * *' # UTC时间为 0:00，上海时间为 8:00
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Update date in README.md
+        run: |
+          # 获取当前日期，格式为 YYYY-MM-DD
+          current_date=$(date +'%Y-%m-%d')
+          
+          # 使用 sed 替换 README.md 中的日期
+          sed -i "s/created: .*/created: $current_date/" README.md
+          sed -i "s/modified: .*/modified: $current_date/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update date in README.md to $current_date"
+          git push
