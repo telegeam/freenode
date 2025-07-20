@@ -273,12 +273,12 @@ TG群组搜索机器人
 🔍使用SOSO机器人可以搜索Telegram群组、频道、甚至视频、音乐等任何您想要的资源。 —  🔍 搜搜更懂你！
 
 👇
-[点击进入](https://t.me/soso?start=a_6128203748?)
+[点击进入](https://t.me/beijingxiuchea)
 
 👉#2 
 TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频
 
-[点击进入](https://t.me/jisou2bot?start=a_611319548)
+[点击进入](https://t.me/jisoubot?start=a_611319548)
 
 👉#3 [点击进入](https://t.me/jisou2bot?start=a_611319548)
 
