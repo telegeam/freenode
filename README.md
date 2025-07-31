@@ -1,6 +1,6 @@
 ---
-created: 2025-07-30
-modified: 2025-07-30
+created: 2025-07-31
+modified: 2025-07-31
 ---
 
 ### [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交账号的零售批，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批零售
