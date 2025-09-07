@@ -23,7 +23,7 @@ modified: 2025-09-07
 # 高速机机场推荐:
 
 
-### [【88云加速】](https://vx.88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [【88云加速】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 便宜是真便宜，10元钱买1个月，1个月 300 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
@@ -31,7 +31,7 @@ modified: 2025-09-07
 
 解锁奈飞迪士尼
 
-注册地址：[【88云加速（点击注册）】](https://vx.88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 *  *   *
 
