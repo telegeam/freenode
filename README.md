@@ -1,6 +1,6 @@
 ---
-created: 2025-09-20
-modified: 2025-09-20
+created: 2025-09-21
+modified: 2025-09-21
 ---
 
 ### [TG账号商店 ](https://shop.idbb.me/) ---专住于海外社交账号的零售批，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批零售
