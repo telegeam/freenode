@@ -3,9 +3,9 @@ created: 2025-10-27
 modified: 2025-10-27
 ---
 
-### [TG账号商店 ](https://shop.idbb.me/) ---专住于海外社交账号的零售批，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批零售
+### [TG账号商店 ](http://goso002.com?from=32977) ---专住于海外社交账号的零售批，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批零售
 
-[点击进入TG账号商店 ](https://shop.idbb.me/)
+[点击进入TG账号商店 ](http://goso002.com?from=32977)
 
 # 自由上网，科学上网，翻墙机场推荐-------
 
