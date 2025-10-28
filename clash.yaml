@@ -20,8 +20,8 @@ proxies:
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 香港 Cloudie数据中心", server: 103.243.26.209, port: 8080, type: vmess, uuid: bc7e6840-ab83-4570-eaae-d9aff1e2da09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.46.98, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司", server: v10.heduian.link, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.46.98, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true, tfo: false}
@@ -60,8 +60,8 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -95,8 +95,8 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -130,8 +130,8 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -165,8 +165,8 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -201,8 +201,8 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -231,8 +231,8 @@ proxy-groups:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -254,8 +254,8 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -273,8 +273,8 @@ proxy-groups:
     type: select
     proxies:
       - "[VMess] 🇭🇰 香港 Cloudie数据中心"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: 🇯🇵 日本
     type: select
     proxies:
