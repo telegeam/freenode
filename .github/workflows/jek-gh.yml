@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main  #采用main分支下的
-      - name: Download the subscribe
+      - name: subscribe
         run: |
           sh ./run.sh
       - name: Commit Changes
