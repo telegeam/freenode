@@ -1,5 +1,5 @@
 # name属性用来指定这个工作流的名字
-name: Download The SUBSCRIBE
+name: SUBSCRIBE
 
 on:
   push:
