@@ -142,8 +142,18 @@ modified: 2025-10-29
 
 * * *
 
+## 订阅链接：
 
+### Clash订阅链接
 
+- https://a.nodeshare.xyz/uploads/2025/10/20251029.yaml
+-
+
+### V2ray订阅链接
+
+- https://a.nodeshare.xyz/uploads/2025/10/20251029.txt
+- 
+* * *
 ### 高速机场推荐1 快猫
 高速机场推荐1 [【快猫】](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 季付送小火箭，流量多，优惠多
