@@ -146,12 +146,12 @@ modified: 2025-10-29
 
 ### Clash订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/10/20251029.yaml
+- https://raw.githubusercontent.com/telegeam/freenode/refs/heads/master/v2ray.txt
 -
 
 ### V2ray订阅链接
 
-- https://a.nodeshare.xyz/uploads/2025/10/20251029.txt
+- https://raw.githubusercontent.com/telegeam/freenode/refs/heads/master/clash.yaml
 - 
 * * *
 ### 高速机场推荐1 快猫
