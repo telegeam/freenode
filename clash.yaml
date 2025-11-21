@@ -8,10 +8,10 @@ hosts:
   .googleapis.cn: 142.250.196.131
   .google.cn: 142.250.196.131
 proxies:
-  - {name: "[SS] 亚太地区 V2CROSS.COM", server: wangcai.singdns.com, port: 23344, type: ss, cipher: aes-128-gcm, password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74, udp: true, tfo: false}
-  - {name: "[SS] 亚太地区 V2CROSS.COM 2", server: 103.219.103.217, port: 23344, type: ss, cipher: aes-128-gcm, password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74, udp: true, tfo: false}
-  - {name: "[SS] 亚太地区 V2CROSS.COM 3", server: liubu9.singdns.com, port: 17459, type: ss, cipher: aes-128-gcm, password: 57bc0c04-8184-48f5-906b-897d095ed445, udp: true, tfo: false}
-  - {name: "[SS] 亚太地区 V2CROSS.COM 4", server: 103.219.103.217, port: 21712, type: ss, cipher: aes-128-gcm, password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74, udp: true, tfo: false}
+  - {name: "[SS] 亚太地区 V2CROSS.COM", server: 103.219.103.217, port: 21712, type: ss, cipher: aes-128-gcm, password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74, udp: true, tfo: false}
+  - {name: "[SS] 亚太地区 V2CROSS.COM 2", server: wangcai.singdns.com, port: 23344, type: ss, cipher: aes-128-gcm, password: 79ad2852-eb76-4c3e-ba4d-3668ee5ece74, udp: true, tfo: false}
+  - {name: "[VMess] 湖北省武汉市 联通", server: 113.57.36.148, port: 3304, type: vmess, uuid: f0305e21-30bb-32f9-9b1b-9e02dcf3af54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 湖北省武汉市 联通 2", server: 113.57.36.148, port: 3304, type: vmess, uuid: f0305e21-30bb-32f9-9b1b-9e02dcf3af54, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0}, udp: true, tfo: false}
@@ -19,8 +19,9 @@ proxies:
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.25.241, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2", server: 219.79.165.55, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.18.95, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2", server: 219.79.165.55, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2525252Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3", server: 58.152.25.241, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true, tfo: false}
@@ -47,8 +48,8 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[SS] 亚太地区 V2CROSS.COM"
       - "[SS] 亚太地区 V2CROSS.COM 2"
-      - "[SS] 亚太地区 V2CROSS.COM 3"
-      - "[SS] 亚太地区 V2CROSS.COM 4"
+      - "[VMess] 湖北省武汉市 联通"
+      - "[VMess] 湖北省武汉市 联通 2"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -58,6 +59,7 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -79,8 +81,8 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[SS] 亚太地区 V2CROSS.COM"
       - "[SS] 亚太地区 V2CROSS.COM 2"
-      - "[SS] 亚太地区 V2CROSS.COM 3"
-      - "[SS] 亚太地区 V2CROSS.COM 4"
+      - "[VMess] 湖北省武汉市 联通"
+      - "[VMess] 湖北省武汉市 联通 2"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -90,6 +92,7 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -111,8 +114,8 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[SS] 亚太地区 V2CROSS.COM"
       - "[SS] 亚太地区 V2CROSS.COM 2"
-      - "[SS] 亚太地区 V2CROSS.COM 3"
-      - "[SS] 亚太地区 V2CROSS.COM 4"
+      - "[VMess] 湖北省武汉市 联通"
+      - "[VMess] 湖北省武汉市 联通 2"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -122,6 +125,7 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -143,8 +147,8 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[SS] 亚太地区 V2CROSS.COM"
       - "[SS] 亚太地区 V2CROSS.COM 2"
-      - "[SS] 亚太地区 V2CROSS.COM 3"
-      - "[SS] 亚太地区 V2CROSS.COM 4"
+      - "[VMess] 湖北省武汉市 联通"
+      - "[VMess] 湖北省武汉市 联通 2"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -154,6 +158,7 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -176,8 +181,8 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[SS] 亚太地区 V2CROSS.COM"
       - "[SS] 亚太地区 V2CROSS.COM 2"
-      - "[SS] 亚太地区 V2CROSS.COM 3"
-      - "[SS] 亚太地区 V2CROSS.COM 4"
+      - "[VMess] 湖北省武汉市 联通"
+      - "[VMess] 湖北省武汉市 联通 2"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -187,6 +192,7 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -214,6 +220,7 @@ proxy-groups:
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -225,8 +232,8 @@ proxy-groups:
       - 🇸🇬 新加坡
       - "[SS] 亚太地区 V2CROSS.COM"
       - "[SS] 亚太地区 V2CROSS.COM 2"
-      - "[SS] 亚太地区 V2CROSS.COM 3"
-      - "[SS] 亚太地区 V2CROSS.COM 4"
+      - "[VMess] 湖北省武汉市 联通"
+      - "[VMess] 湖北省武汉市 联通 2"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -236,6 +243,7 @@ proxy-groups:
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -252,6 +260,7 @@ proxy-groups:
     proxies:
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 3"
   - name: 🇯🇵 日本
     type: select
     proxies:
