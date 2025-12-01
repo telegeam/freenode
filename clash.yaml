@@ -8,7 +8,7 @@ hosts:
   .googleapis.cn: 142.250.196.131
   .google.cn: 142.250.196.131
 proxies:
-  - {name: "[VMess] 北美地区 V2CROSS.COM", server: 107.173.31.37, port: 443, type: vmess, uuid: be8771bd-10b9-4766-ad44-87971ba1fba4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /video, headers: {Host: proxy.gelindejia.asia}}, udp: true, tfo: false}
+  - {name: "[VMess] 亚太地区 V2CROSS.COM", server: aflzzul.meiquankongjian.com, port: 52513, type: vmess, uuid: 342bacfd-2b8f-3f49-a16e-439db5b0b9d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /564dfa20/, headers: {Host: aflzzul.meiquankongjian.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0}, udp: true, tfo: false}
@@ -17,16 +17,12 @@ proxies:
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.25.20, port: 443, type: trojan, password: BxceQaOe, sni: t.me%25252Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云", server: 47.243.12.217, port: 28405, type: vmess, uuid: cac3e30d-fa01-4993-ac1e-d6971263ea90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 2", server: 47.242.162.235, port: 3787, type: vmess, uuid: e748fe05-2678-4c31-84c6-14ed825b92b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 3", server: 47.243.241.93, port: 62195, type: vmess, uuid: 73f10380-0c4d-4ffc-9b0d-0a75020d3636, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 4", server: 47.242.20.123, port: 41026, type: vmess, uuid: b48a48a2-5d83-40a7-b5fc-edb71eaa54b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 5", server: 47.242.140.52, port: 34815, type: vmess, uuid: 1a46b66c-6ba9-4e9c-aa0b-0ebac2b69e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 6", server: 47.242.238.231, port: 16470, type: vmess, uuid: 89240c7e-d221-4042-a726-5dcbcf79c130, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 7", server: 47.243.51.237, port: 52801, type: vmess, uuid: ef93f413-9039-4ddb-aefb-2490287df55a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 8", server: 47.243.212.142, port: 35193, type: vmess, uuid: c76ee219-2274-4768-8953-200fa72d2a60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 阿里云 9", server: 47.242.162.235, port: 13767, type: vmess, uuid: d77fcaf1-8356-47bc-8883-a80d15e1bd78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.30.175, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2", server: 112.118.116.66, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 阿里云", server: 47.242.125.104, port: 58424, type: vmess, uuid: 80016399-3178-472e-86e3-129aab31a025, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 阿里云 2", server: 47.242.125.104, port: 36294, type: vmess, uuid: b4201b90-1b33-42f1-bdc0-9ce276a403f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
+  - {name: "[VMess] 🇭🇰 香港 阿里云 3", server: 47.243.212.142, port: 12832, type: vmess, uuid: 355424f7-7325-4140-9b10-6f7a28a1e34c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true, tfo: false}
@@ -51,7 +47,7 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[VMess] 北美地区 V2CROSS.COM"
+      - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -60,16 +56,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -89,7 +81,7 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[VMess] 北美地区 V2CROSS.COM"
+      - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -98,16 +90,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -127,7 +115,7 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[VMess] 北美地区 V2CROSS.COM"
+      - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -136,16 +124,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -165,7 +149,7 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[VMess] 北美地区 V2CROSS.COM"
+      - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -174,16 +158,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -204,7 +184,7 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[VMess] 北美地区 V2CROSS.COM"
+      - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -213,16 +193,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -249,15 +225,10 @@ proxy-groups:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -267,7 +238,7 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[VMess] 北美地区 V2CROSS.COM"
+      - "[VMess] 亚太地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
@@ -276,16 +247,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -301,15 +268,10 @@ proxy-groups:
     type: select
     proxies:
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
+      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司 2"
       - "[VMess] 🇭🇰 香港 阿里云"
       - "[VMess] 🇭🇰 香港 阿里云 2"
       - "[VMess] 🇭🇰 香港 阿里云 3"
-      - "[VMess] 🇭🇰 香港 阿里云 4"
-      - "[VMess] 🇭🇰 香港 阿里云 5"
-      - "[VMess] 🇭🇰 香港 阿里云 6"
-      - "[VMess] 🇭🇰 香港 阿里云 7"
-      - "[VMess] 🇭🇰 香港 阿里云 8"
-      - "[VMess] 🇭🇰 香港 阿里云 9"
   - name: 🇯🇵 日本
     type: select
     proxies:
@@ -317,7 +279,6 @@ proxy-groups:
   - name: 🇺🇲 美国
     type: select
     proxies:
-      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
