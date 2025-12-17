@@ -680,6 +680,7 @@ rules:
   - DOMAIN,image.mooncloud.top,🌍 国外媒体
   - DOMAIN,i.111666.best,🌍 国外媒体
   - DOMAIN,image.acg.lol,🌍 国外媒体
+  - DOMAIN-SUFFIX,nodeimage.com,🌍 国外媒体
   - DOMAIN-SUFFIX,linux.do,🌍 国外媒体
   - DOMAIN-SUFFIX,idcflare.com,🌍 国外媒体
   - DOMAIN-SUFFIX,uupdump.net,🌍 国外媒体
