@@ -13,18 +13,18 @@ proxies:
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0}, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇳 中国 V2CROSS.COM", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: a213e1a5-3c5a-40f2-b70e-98ffa63ffc8e, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信 2", server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: c80870af-749e-406c-bdbd-7aafa46de71d, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信 3", server: green2.cdntencentmusic.com, port: 33301, type: trojan, password: c80870af-749e-406c-bdbd-7aafa46de71d, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信 2", server: green2.cdntencentmusic.com, port: 33301, type: trojan, password: c80870af-749e-406c-bdbd-7aafa46de71d, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信 3", server: green2.cdntencentmusic.com, port: 31102, type: trojan, password: b4006da3-2631-4c1c-8a2e-663e9a07d7d4, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.26.107, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
+  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.26.107, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4", server: mm3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm3.shabijichang.com}}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇯🇵 日本 东京Amazon数据中心", server: 18.177.141.4, port: 2762, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰", server: 45.199.138.191, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696251522438}, udp: true, tfo: false}
   - {name: "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯", server: jd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jd3.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[SS] 🇹🇭 泰国 V2CROSS.COM", server: 119.59.98.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
@@ -58,12 +58,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[Trojan] 🇯🇵 日本 东京Amazon数据中心"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
       - "[SS] 🇹🇭 泰国 V2CROSS.COM"
@@ -92,12 +92,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[Trojan] 🇯🇵 日本 东京Amazon数据中心"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
       - "[SS] 🇹🇭 泰国 V2CROSS.COM"
@@ -126,12 +126,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[Trojan] 🇯🇵 日本 东京Amazon数据中心"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
       - "[SS] 🇹🇭 泰国 V2CROSS.COM"
@@ -160,12 +160,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[Trojan] 🇯🇵 日本 东京Amazon数据中心"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
       - "[SS] 🇹🇭 泰国 V2CROSS.COM"
@@ -195,12 +195,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[Trojan] 🇯🇵 日本 东京Amazon数据中心"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
       - "[SS] 🇹🇭 泰国 V2CROSS.COM"
@@ -248,12 +248,12 @@ proxy-groups:
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
+      - "[VMess] 🇬🇧 英国 V2CROSS.COM"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[Trojan] 🇯🇵 日本 东京Amazon数据中心"
       - "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰"
       - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
       - "[SS] 🇹🇭 泰国 V2CROSS.COM"
@@ -270,7 +270,7 @@ proxy-groups:
   - name: 🇯🇵 日本
     type: select
     proxies:
-      - "[Trojan] 🇯🇵 日本 东京Amazon数据中心"
+      - DIRECT
   - name: 🇺🇲 美国
     type: select
     proxies:
