@@ -60,9 +60,9 @@ modified: 2025-12-25
 
 * * *
 
-### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
+### [冰灵加速器](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
 
-注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
+注册链接：[点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL)
 
 试用：
 
