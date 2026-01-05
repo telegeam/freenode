@@ -1089,4 +1089,9 @@ rules:
   - DOMAIN-SUFFIX,crunchbits.com,🚀 全球互联
   - DOMAIN-SUFFIX,deepseek.com,🚀 全球互联
   - DOMAIN-SUFFIX,talkatone.com,🚀 全球互联
+  - DOMAIN-SUFFIX,co.jp,🚀 全球互联
+  - DOMAIN-SUFFIX,nhk.jp,🚀 全球互联
+  - DOMAIN-SUFFIX,bunshun.jp,🚀 全球互联
+  - DOMAIN-SUFFIX,fantia.jp,🚀 全球互联
+  - DOMAIN-SUFFIX,5ch.net,🚀 全球互联
   - MATCH,🐟 漏网之鱼
