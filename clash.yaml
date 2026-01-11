@@ -11,7 +11,8 @@ proxies:
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: teams.microsoft.com}}, udp: true}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0, headers: {Host: br.gy.youxuan-1.66688888.xyz}}, udp: true}
-  - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信", server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 2683d8cb-6c64-4749-9cb9-24dfe71a5fdb, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信", server: green2.cdntencentmusic.com, port: 35502, type: trojan, password: 9450ab5e-f86f-40c1-89b0-92dfa6679553, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 🇨🇳 台湾省台中市 中华电信 2", server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: df682bf0-81ae-41ea-bab3-be7075a7f1ab, sni: green2.cdntencentmusic.com, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true}
@@ -45,6 +46,7 @@ proxy-groups:
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -73,6 +75,7 @@ proxy-groups:
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -101,6 +104,7 @@ proxy-groups:
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -129,6 +133,7 @@ proxy-groups:
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -158,6 +163,7 @@ proxy-groups:
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -189,6 +195,7 @@ proxy-groups:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
       - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
   - name: Ⓜ️ 微软服务
     type: select
@@ -203,6 +210,7 @@ proxy-groups:
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
@@ -250,6 +258,7 @@ proxy-groups:
     proxies:
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[Trojan] 🇨🇳 台湾省台中市 中华电信"
+      - "[Trojan] 🇨🇳 台湾省台中市 中华电信 2"
   - name: 🇸🇬 新加坡
     type: select
     proxies:
