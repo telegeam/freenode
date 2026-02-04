@@ -1,6 +1,6 @@
 ---
-created: 2026-02-03
-modified: 2026-02-03
+created: 2026-02-04
+modified: 2026-02-04
 ---
 
 ### [TG账号商店 ](http://goso002.com?from=32977) ---专住于海外社交账号的零售批，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批零售
@@ -170,22 +170,6 @@ modified: 2026-02-03
 
 👉注册地址： [【轻云官网（点击注册）】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
 
-### 高速机场推荐4 火烧云
-
-高速机场推荐4[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-线路优势
-多地中转隧道跨境出国SLA在线保障
-超高带宽接入晚高峰速率保障4k秒开
-流媒体支持
-支持但不限于 Chatgpt/Netfilx/Hulu/Hbo/Disney+/Dazn 等流媒体
-套餐优势
-全球 多节点
-设备支持
-Trojan 协议，不限制设备数量 。
-支持Android/iOS/Mac/Windows/Linux/路由器全平台
-
-👉[点击注册](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐5 极速云
 
