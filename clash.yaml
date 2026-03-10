@@ -9,14 +9,15 @@ hosts:
   .google.cn: 142.250.196.131
 proxies:
   - {name: "[VMess] 亚太地区 V2CROSS.COM", server: 103.181.164.237, port: 34114, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: "[SS] 广东省佛山市 联通", server: chengbai02.ascwt179.com, port: 13223, type: ss, cipher: aes-128-gcm, password: JVrsLLN1tkN8oXZO, udp: true}
+  - {name: "[VMess] 北美地区 V2CROSS.COM", server: 198.62.62.199, port: 443, type: vmess, uuid: f08369d1-5ee7-4b16-d786-30bce12fc33c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ous3.dean52.top, network: ws, ws-opts: {path: /f08369d1-5ee7-4b16-d786-30bce12fc33c, headers: {Host: ous3.dean52.top}}, udp: true}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: teams.microsoft.com}}, udp: true}
   - {name: "[Trojan] 🇨🇦 加拿大 V2CROSS.COM", server: 167.17.185.172, port: 10889, type: trojan, password: cTv.9PDdCt-wybBrG1qlxI5UJuaEj, sni: web.max.ru, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 🇨🇦 加拿大 V2CROSS.COM 2", server: 167.17.185.228, port: 10889, type: trojan, password: cTv.9PDdCt-wybBrG1qlxI5UJuaEj, sni: web.max, skip-cert-verify: true, udp: true}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0, headers: {Host: br.gy.youxuan-1.66688888.xyz}}, udp: true}
   - {name: "[SS] 🇨🇳 广东省广州市 电信IDC机房", server: iepl.huli168.com, port: 19822, type: ss, cipher: aes-256-gcm, password: g4JtpkuxkwRH4jhj, udp: true}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true}
-  - {name: "[Trojan] 🇪🇸 西班牙 V2CROSS.COM", server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, sni: io.ozone.ru, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 🇪🇸 西班牙 V2CROSS.COM", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: true, udp: true}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true}
@@ -45,9 +46,10 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
-      - "[SS] 广东省佛山市 联通"
+      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM"
+      - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM 2"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[SS] 🇨🇳 广东省广州市 电信IDC机房"
@@ -76,9 +78,10 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
-      - "[SS] 广东省佛山市 联通"
+      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM"
+      - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM 2"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[SS] 🇨🇳 广东省广州市 电信IDC机房"
@@ -107,9 +110,10 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
-      - "[SS] 广东省佛山市 联通"
+      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM"
+      - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM 2"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[SS] 🇨🇳 广东省广州市 电信IDC机房"
@@ -138,9 +142,10 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
-      - "[SS] 广东省佛山市 联通"
+      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM"
+      - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM 2"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[SS] 🇨🇳 广东省广州市 电信IDC机房"
@@ -170,9 +175,10 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
-      - "[SS] 广东省佛山市 联通"
+      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM"
+      - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM 2"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[SS] 🇨🇳 广东省广州市 电信IDC机房"
@@ -216,9 +222,10 @@ proxy-groups:
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
       - "[VMess] 亚太地区 V2CROSS.COM"
-      - "[SS] 广东省佛山市 联通"
+      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM"
+      - "[Trojan] 🇨🇦 加拿大 V2CROSS.COM 2"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[SS] 🇨🇳 广东省广州市 电信IDC机房"
@@ -249,6 +256,7 @@ proxy-groups:
   - name: 🇺🇲 美国
     type: select
     proxies:
+      - "[VMess] 北美地区 V2CROSS.COM"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
