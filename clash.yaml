@@ -8,20 +8,20 @@ hosts:
   .googleapis.cn: 142.250.196.131
   .google.cn: 142.250.196.131
 proxies:
-  - {name: "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM", server: 78.159.131.12, port: 28259, type: trojan, password: MeaDiUmPlkWbZJ2BON8tz, sni: ads.x5.ru, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 乌克兰 V2CROSS.COM", server: 94.131.105.125, port: 4443, type: trojan, password: strong-secret-pass-777, skip-cert-verify: true, udp: true}
+  - {name: "[SS] 广东省 移动", server: chengbai02.ascwt179.com, port: 13223, type: ss, cipher: aes-128-gcm, password: JVrsLLN1tkN8oXZO, udp: true}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: teams.microsoft.com}}, udp: true}
   - {name: "[SS] 🇨🇭 _CH_瑞士", server: 84.17.53.163, port: 80, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国", server: 107.167.182.230, port: 80, type: vmess, uuid: efcb7d7c-c582-46f5-eeff-0e553342528d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /tg@hkaa0, headers: {Host: br.gy.youxuan-1.66688888.xyz}}, udp: true}
-  - {name: "[SS] 🇨🇳 台湾省台北市 中华电信", server: r3mrcg007144ll4.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: "[SS] 🇨🇳 台湾省新北市 中华电信", server: r3mrcg007116sfa.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: "[SS] 🇨🇳 台湾省新北市 中华电信 2", server: n8mrcg005938lsz.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
-  - {name: "[SS] 🇨🇳 台湾省桃园市 中华电信", server: n8mrcg005961xa6.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
   - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true}
-  - {name: "[Trojan] 🇪🇸 西班牙 V2CROSS.COM", server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, skip-cert-verify: true, udp: true}
   - {name: "[SS] 🇫🇷 _FR_法国", server: 51.158.54.209, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", server: mrb2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mrb2.shabijichang.com}}, udp: true}
   - {name: "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", server: ld2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ld2.shabijichang.com}}, udp: true}
-  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM", server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[VMess] 🇬🇧 英国 V2CROSS.COM", server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: "[SS] 🇬🇧 英国 V2CROSS.COM", server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true}
+  - {name: "[Trojan] 🇬🇧 英国 伦敦Virgin Media", server: 82.26.155.3, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra34.chasem2026sud.com, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 🇬🇧 英国 伦敦Virgin Media 2", server: 82.26.155.199, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra4.chasem2026sud.com, skip-cert-verify: true, udp: true}
+  - {name: "[Trojan] 🇬🇧 英国 伦敦Virgin Media 3", server: 82.26.155.20, port: 10369, type: trojan, password: n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj, sni: fra35.chasem2026sud.com, skip-cert-verify: true, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", server: 104.17.18.26, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", server: 104.26.8.44, port: 80, type: vmess, uuid: 5180444a-4756-43b4-960b-49eb9052e4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.109420.xyz}}, udp: true}
   - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3", server: mm2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm2.shabijichang.com}}, udp: true}
@@ -48,20 +48,20 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
+      - "[Trojan] 乌克兰 V2CROSS.COM"
+      - "[SS] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
-      - "[Trojan] 🇪🇸 西班牙 V2CROSS.COM"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 V2CROSS.COM"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 2"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -83,20 +83,20 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
+      - "[Trojan] 乌克兰 V2CROSS.COM"
+      - "[SS] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
-      - "[Trojan] 🇪🇸 西班牙 V2CROSS.COM"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 V2CROSS.COM"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 2"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -118,20 +118,20 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
+      - "[Trojan] 乌克兰 V2CROSS.COM"
+      - "[SS] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
-      - "[Trojan] 🇪🇸 西班牙 V2CROSS.COM"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 V2CROSS.COM"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 2"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -153,20 +153,20 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
+      - "[Trojan] 乌克兰 V2CROSS.COM"
+      - "[SS] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
-      - "[Trojan] 🇪🇸 西班牙 V2CROSS.COM"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 V2CROSS.COM"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 2"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -189,20 +189,20 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
+      - "[Trojan] 乌克兰 V2CROSS.COM"
+      - "[SS] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
-      - "[Trojan] 🇪🇸 西班牙 V2CROSS.COM"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 V2CROSS.COM"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 2"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -230,10 +230,6 @@ proxy-groups:
     proxies:
       - DIRECT
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -243,20 +239,20 @@ proxy-groups:
       - 🇺🇲 美国
       - 🇹🇼 台湾
       - 🇸🇬 新加坡
-      - "[Trojan] 🇧🇬 保加利亚 V2CROSS.COM"
+      - "[Trojan] 乌克兰 V2CROSS.COM"
+      - "[SS] 广东省 移动"
       - "[VMess] 🇨🇦 _CA_加拿大"
       - "[SS] 🇨🇭 _CH_瑞士"
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
       - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
-      - "[Trojan] 🇪🇸 西班牙 V2CROSS.COM"
       - "[SS] 🇫🇷 _FR_法国"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
       - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
       - "[VMess] 🇬🇧 英国 V2CROSS.COM"
+      - "[SS] 🇬🇧 英国 V2CROSS.COM"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 2"
+      - "[Trojan] 🇬🇧 英国 伦敦Virgin Media 3"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2"
       - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
@@ -301,10 +297,6 @@ proxy-groups:
     type: select
     proxies:
       - "[VMess] 🇨🇳 _TW_台湾->🇺🇸_US_美国"
-      - "[SS] 🇨🇳 台湾省台北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信"
-      - "[SS] 🇨🇳 台湾省新北市 中华电信 2"
-      - "[SS] 🇨🇳 台湾省桃园市 中华电信"
   - name: 🇸🇬 新加坡
     type: select
     proxies:
